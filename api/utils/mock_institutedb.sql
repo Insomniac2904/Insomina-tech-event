@@ -1,0 +1,10 @@
+insert into institutedb (roll, email, name, dob) values ('001', 'trakes0@tumblr.com', 'Trey', '2004-05-09');
+insert into institutedb (roll, email, name, dob) values ('002', 'lduffan1@4shared.com', 'Lyon', '2003-09-05');
+insert into institutedb (roll, email, name, dob) values ('003', 'gkabos2@alexa.com', 'Gareth', '2022-08-11');
+insert into institutedb (roll, email, name, dob) values ('005', 'drasp3@tiny.cc', 'Delmar', '2017-07-26');
+insert into institutedb (roll, email, name, dob) values ('006', 'bearthfield4@fema.gov', 'Beth', '2002-11-09');
+insert into institutedb (roll, email, name, dob) values ('007', 'lleavold5@netlog.com', 'Lori', '2004-08-03');
+insert into institutedb (roll, email, name, dob) values ('008', 'njeannon6@va.gov', 'Nelly', '2007-01-08');
+insert into institutedb (roll, email, name, dob) values ('009', 'mewart7@facebook.com', 'Melina', '2017-12-18');
+insert into institutedb (roll, email, name, dob) values ('010', 'ldeniskevich8@microsoft.com', 'Lesli', '2006-04-12');
+insert into institutedb (roll, email, name, dob) values ('011', 'kmarchand9@wiley.com', 'Kiersten', '2015-06-26');
