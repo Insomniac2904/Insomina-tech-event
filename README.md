@@ -10,7 +10,7 @@ REST API for a tech event webpage.
 
 ## Built With
 
-NodeJS, OpenAI Api, Fetch, Inquirer
+NodeJS, Express, Fetch, PostgreSQL
 
 ## Getting Started
 
