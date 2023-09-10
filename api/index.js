@@ -21,13 +21,13 @@ const start = async () => {
   });
 };
 
-app.use("/api/v1/participants", participantRoute);
+app.use("api/v1/participants", participantRoute);
 // for login , register , add selected events , remove events ,show participating evnets
 
-app.use("/api/v1/events", eventRoute);
+app.use("api/v1/events", eventRoute);
 // for listing all events , evnet dates and participation count and all
 
-app.use("/api/v1/maintainers", maintainerRoute);
+app.use("api/v1/maintainers", maintainerRoute);
 // for listing all events , evnet dates and participation count and all
 
 start();
